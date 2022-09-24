@@ -29,7 +29,7 @@ for(int i = a; i <= b; i++)
                 break;
             case 9: printf("nine\n");
                 break;  
-                //default:return 0;                     
+                                 
 
         }
 
